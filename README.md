@@ -1,6 +1,6 @@
 # OLV
 
-## OLV is a topology-based method to estimate the differentiation potency of single-cells.
+OLV is a topology-based method to estimate the differentiation potency of single-cells.
 
 OLV is performed as follows:  
 
